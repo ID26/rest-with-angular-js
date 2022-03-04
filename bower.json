@@ -1,0 +1,9 @@
+{
+  "name": "rest-with-angular-js",
+  "dependencies": {
+    "angular": "latest",
+    "angular-resource": "latest",
+    "jquery": "latest",
+    "bootstrap": "latest"
+  }
+}
